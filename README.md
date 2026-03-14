@@ -5,6 +5,9 @@ A feature-rich **75-Ball Bingo** application built with **Flutter**. This app pr
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-green?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=jp.aosystem.bingogame)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 📺 Demo Video
+[![Watch the video](https://img.youtube.com/vi/VlqVhRmWyQ/0.jpg)](https://www.youtube.com/watch?v=VlqVhRmWyQ)
+
 ## 🌟 Key Features
 - **Standard 75-Ball Format:** Optimized for the classic 75-number bingo rules.
 - **Integrated 6-Card Display:** Allows players to track and play with six cards simultaneously on a single screen.
